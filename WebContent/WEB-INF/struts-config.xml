@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts-config PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 1.1//EN"
+                               "http://jakarta.apache.org/struts/dtds/struts-config_1_1.dtd">
+
+<struts-config>
+
+	<!-- 数据源 -->
+	<data-sources>
+	</data-sources>
+
+	<!-- 表单 Bean -->
+	<form-beans>
+	</form-beans>
+
+	<!-- 全局异常 -->
+	<global-exceptions>
+	</global-exceptions>
+
+	<!-- 全局转发 -->
+	<global-forwards>
+	</global-forwards>
+
+	<!-- 操作映射 -->
+	<action-mappings>
+	</action-mappings>
+
+	<!-- 消息资源 -->
+	<message-resources parameter="lxyh.resources.ApplicationResources"/>
+
+</struts-config>
